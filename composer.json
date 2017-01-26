@@ -1,0 +1,5 @@
+{
+    "name": "locomo/acf-field-buddypress-groups",
+    "type": "wordpress-plugin",
+    "require": {}
+}
